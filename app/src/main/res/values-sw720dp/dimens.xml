@@ -1,0 +1,25 @@
+<resources>
+
+    <!-- for nexus 10 -->
+    <dimen name="logo_size">350dp</dimen>
+    <dimen name="score_size">60sp</dimen>
+    <dimen name="button_width">400dp</dimen>
+    <dimen name="top_margin">100dp</dimen>
+    <dimen name="top_margin_2">100dp</dimen>
+    <dimen name="margin_top">70dp</dimen>
+
+    <!-- about screen -->
+    <dimen name="title_size">70sp</dimen>
+    <dimen name="content_size">55sp</dimen>
+
+    <!-- theme screen -->
+    <dimen name="image_padding">25dp</dimen>
+    <dimen name="button_text">45sp</dimen>
+
+    <!-- tutorial screen -->
+    <dimen name="tutorial_text_size">50sp</dimen>
+    <dimen name="padding_game">10dp</dimen>
+    <dimen name="button_height">110dp</dimen>
+    <dimen name="board_size">400dp</dimen>
+
+</resources>

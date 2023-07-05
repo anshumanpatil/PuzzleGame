@@ -1,0 +1,7 @@
+<resources>
+
+    <style name="MyTheme" parent="@android:style/Theme.Holo.Light.NoActionBar.Fullscreen">
+        <!-- Any customizations for your app running on devices with Theme.Holo here -->
+    </style>
+
+</resources>

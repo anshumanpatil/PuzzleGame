@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">15 rompecabezas</string>
+    <string name="menu_shuffle">barajada</string>
+    <string name="moves">"movimiento: "</string>
+    <string name="record">"registro: "</string>
+    <string name="time">"tiempo: "</string>
+
+    <!-- values for startScreen -->
+    <string name="play"> jugar </string>
+    <string name="customise"> Themes </string>
+    <string name="about"> temas </string>
+
+    <!-- vales for dialogs -->
+    <string name="dialogTitle">reanudar el juego</string>
+    <string name="yes">sí</string>
+    <string name="no">нет</string>
+    <string name="share_screenshot">cuota</string>
+    <string name="quitgame">salir del juego</string>
+    <string name="dialogtitle1">no está mal!</string>
+    <string name="dialogtitle2">genial!</string>
+    <string name="dialogtitle3">asombroso!</string>
+    <string name="dialogtitle4">usted es un profesional!</string>
+    <string name="dialog_playagain">jugar de nuevo??</string>
+
+    <!-- values for aboutScreen -->
+    <string name="aboutTitle">Acerca de Fifteen Puzzle</string>
+    <string name="aboutcontent">El puzzle de 15 (también llamado Puzzle Gem , Puzzle Boss , Juego de los Quince , Mystic Square y muchas otras) es un puzzle que consiste en un marco de azulejos cuadrados numerados en orden aleatorio, con una ficha que falta . El rompecabezas fue "inventada " por Noyes Chapman Palmer , un jefe de correos en Canastota , Nueva York, que se dice que han demostrado los amigos , ya en 1874, un rompecabezas precursor que consiste en 16 bloques numerados que se iban a juntar en filas de cuatro , cada uno sumando al 34 . Copias de la mejora de Fifteen Puzzle se dirigieron a Syracuse , Nueva York por medio de Frank , hijo de Noyes, y desde allí, a través de conexiones diversas, a Watch Hill , RI, y finalmente a Hartford (Connecticut ) , donde los alumnos de la Escuela Americana para Sordos comenzaron la fabricación de rompecabezas y , para diciembre de 1879, la venta de ellos , tanto a nivel local como en Boston, Massachusetts. Se muestra uno de estos, Matthias Rice, que dirigía un negocio de carpintería de lujo en Boston, comenzó a fabricar el rompecabezas en algún momento en diciembre de 1879 y convenció a un Yankee Nociones artículos de fantasía distribuidor para venderlos bajo el nombre de "Gem Puzzle" . A finales de enero de 1880, el Dr. Charles Pevey , un dentista en Worcester , Massachusetts, obtuvo un poco de atención , ofreciendo una recompensa en efectivo de una solución para el rompecabezas quince .</string>
+
+    <!-- values for tutorial -->
+    <string name="howto">Se le dará un tablero de 4x4 celdas, de los cuales un azulejo faltará. Su objetivo es colocar los azulejos en orden numérico correcto. Toque en cualquier cerámica para moverlo en el espacio en blanco en la red. Para ser un maestro que tiene que completar el juego en un tiempo mínimo y se mueve</string>
+    
+    <string name="more_games">Más Juegos</string>
+    
+</resources>

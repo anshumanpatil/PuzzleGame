@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">15 Puzzle</string>
+    <string name="menu_shuffle">Shuffle</string>
+    <string name="moves">"bewegt sich: "</string>
+    <string name="record">"Rekord: "</string>
+    <string name="time">"Zeit: "</string>
+
+    <!-- values for startScreen -->
+    <string name="play"> Wiedergabe </string>
+    <string name="customise"> Themen </string>
+    <string name="about"> über </string>
+
+    <!-- vales for dialogs -->
+    <string name="dialogTitle">Spiel wieder aufnehmen</string>
+    <string name="yes">ja</string>
+    <string name="no">nicht</string>
+    <string name="share_screenshot">Aktie</string>
+    <string name="quitgame">Spiel beenden</string>
+    <string name="dialogtitle1">Nicht schlecht!!</string>
+    <string name="dialogtitle2">groß!!</string>
+    <string name="dialogtitle3">erstaunlich!!</string>
+    <string name="dialogtitle4">Sie sind ein Profi!!</string>
+    <string name="dialog_playagain">wieder spielen?</string>
+
+    <!-- values for aboutScreen -->
+    <string name="aboutTitle">Über Fifteen Puzzle</string>
+    <string name="aboutcontent">Der 15- Puzzle (auch als Gem Puzzle , Boss Puzzle , Spiel der Fünfzehn , Mystic -Platz und viele andere) ist ein Schiebe- Puzzle, das aus einem Rahmen von nummerierten quadratischen Fliesen in zufälliger Reihenfolge mit einem Stein fehlt besteht . Das Puzzle wurde von Noyes Palmer Chapman, ein Postmeister in Canastota , New York, der sagte zu Freunden gezeigt haben , so früh wie 1874 "erfunden" , ein Vorläufer -Puzzle , bestehend aus 16 nummerierten Blöcke , die zusammen in Viererreihen gesetzt werden sollten , die jeweils auf 34 summiert . Exemplare des verbesserten Fifteen Puzzle ihren Weg in Syracuse, New York durch Frank , Sohn von Noyes und von dort über verschiedene Verbindungen zu Watch Hill , RI, und schließlich nach Hartford (Connecticut) , wo die Schüler in der amerikanischen Schule für Gehörlose begann mit der Herstellung und das Rätsel , bis Dezember 1879 sowohl lokal als auch in Boston zu verkaufen , Massachusetts. Dargestellt einer von ihnen, Matthias Rice, die ein schickes holzverarbeitenden Unternehmen in Boston lief , begann mit der Herstellung das Rätsel irgendwann im Dezember 1879 und überzeugte Yankee Begriffe Galanterie -Händler , um sie unter dem Namen " Gem Puzzle" zu verkaufen. Ende Januar 1880 Dr. Charles Pevey , ein Zahnarzt in Worcester , Massachusetts , sammelte einige Aufmerksamkeit , indem sie eine Geldprämie für eine Lösung des Fifteen Puzzle</string>
+
+    <!-- values for tutorial -->
+    <string name="howto">Sie werden ein Brett von 4x4 Zellen, aus denen eine Fliese fehlen wird gegeben werden. Ihr Ziel ist, die Fliesen in der richtigen numerischen Reihenfolge anordnen. Tippen Sie auf jeder Kachel, um es in den leeren Raum am Netz zu bewegen. Um ein Meister zu sein, das Spiel in kürzester Zeit und bewegt sich abzuschließen</string>
+
+    <string name="more_games">Mehr Spiele</string>
+    
+</resources>
